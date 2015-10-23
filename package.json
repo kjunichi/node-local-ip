@@ -1,0 +1,24 @@
+{
+  "name": "node-local-ip",
+  "version": "0.0.1",
+  "description": "get local ip address",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjunichi/node-local-ip.git"
+  },
+  "keywords": [
+    "IP",
+    "address",
+    "IPv4"
+  ],
+  "author": "@kjunichi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjunichi/node-local-ip/issues"
+  },
+  "homepage": "https://github.com/kjunichi/node-local-ip#readme"
+}
